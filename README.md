@@ -15,3 +15,5 @@ A flow chart to help the modern Android dev solve crashes. This originally was j
 #### Version 1.0
 
 ![Alt text](http://i.imgur.com/J8DeRUy.png)
+
+Adding commit to ensure this is in https://archiveprogram.github.com/.
